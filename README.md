@@ -35,8 +35,10 @@ This project follows the MVVM pattern with Provider state management and uses Di
 ## Adding Images to README
 2. Reference the images in this README like so:
 
-```md
-![Screenshot 1](assets/images/one_screenshot_weather_app.png)
-![Screenshot 2](assets/images/two_screenshot_weather_app.png)
-![Screenshot 3](assets/images/three_screenshot_weather_app.png)
-![Screenshot 4](assets/images/four_screenshot_weather_app.png)
+<p align="center">
+<img src="assets/images/one_screenshot_weather_app.png" width="200">
+<img src="assets/images/tow_screenshot_weather_app.png" width="200">
+<img src="assets/images/three_screenshot_weather_app.png" width="200">
+<img src="assets/images/six_screenshot_weather_app.png" width="200">
+<img src="assets/images/four_screenshot_weather_app.png" width="200">
+</p>
