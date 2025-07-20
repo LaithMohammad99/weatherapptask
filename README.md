@@ -33,9 +33,6 @@ This project follows the MVVM pattern with Provider state management and uses Di
 ---
 
 ## Adding Images to README
-
-To include screenshots or images in this README:
-
 2. Reference the images in this README like so:
 
 ```md
